@@ -7,5 +7,5 @@ This rocket motor is just one of many passion projects I have in mind to build a
 In terms of actual technical data, there is an uploaded PDF that gives a summary on all the simulated characteristics. If you have any questions regarding the specific math equations used to design this rocket motor, you can check the JOURNAL.MD file or email me at justinbmcclure@gmail.com. The grain casting equipment and thrust stand will each have their own repository and once everything is complete I will have a YouTube video explaining everything. I'll update this readme once the video is complete.
 
 
-<img width="1433" height="349" alt="Screenshot 2026-10-11 100631" src="https://github.com/user-attachments/assets/e6aab640-1d59-49f0-9556-225b073b6e06" />
+<img width="1484" height="363" alt="Screenshot 2026-10-26 105827" src="https://github.com/user-attachments/assets/92958054-01bc-4535-841c-d26b38511d58" />
 Cross-sectional view of the Larper-2
