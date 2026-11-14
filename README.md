@@ -31,12 +31,10 @@ If you have any questions regarding the specific math equations used to design t
 1. First, we must prepare the nozzle. This part consists of 2 pieces: a nozzle insert and a nozzle closure. A thin but even coating of RTV silicone is applied to both the interior of the nozzle closure and the exterior of the nozzle insert. Follow the picture to see where the silicone must be applied. Once applied, you should stand it upright and place heavy books or weights on top of the insert to ensure everything seals as the silicone cures and that there are no voids.
 
 <img width="740" height="837" alt="Nozzle Assembly" src="https://github.com/user-attachments/assets/2a20522c-1273-4f6b-b2b9-878492a0f6a0" />
-Red = Silicone
 
 2. Second, once the silicone has cured, we need to add the seals. To ensure no tearing or shearing, apply a generous amount of silicone lubricant in the O-ring grooves as well as on the cylindrical face of the nozzle closure. Now, take 2 G56 FKM O-rings and fit each of them into their O-ring grooves.
 
 <img width="782" height="619" alt="O-rings" src="https://github.com/user-attachments/assets/a9487e85-b903-4fd0-8dee-e627d22b3812" />
-Blue = Silicone Lubricant
 
 3. Third, we need to bolt the nozzle closure into place. Slide the assembled nozzle closure into one end of the casing and line up the M6 screw holes with the drilled holes on the casing. Once lined up, place a 1 mm M6 copper washer on an M6x14 screw. This washer is here to ensure the steel doesn't bite into the casing. Once ready, insert the screw into the hole. Now do this for all 8 screws.
 
@@ -45,7 +43,6 @@ Blue = Silicone Lubricant
 4. Fourth, insert propellant. To start, begin by inserting all 3 KNSB grains into the PET-CF17 liner. Be sure you do **NOT** glue the grains to the liner, as they need to move during the burn. Ensure there is a somewhat tight friction fit. A good rule of thumb is to see if you can push the grain in with only your hands and that, when you tap the liner and propellant assembly vertically on a surface, the grain does not move. These two parameters check whether your parts are too big or too small. Please remake your parts if the parts are too loose or too tight to ensure a safe burn. Once all grains have been inserted, take the whole assembly and lather a generous amount of silicone lubricant on the exterior. Use your hands to ensure the whole surface is coated. Now slide this assembly into the casing and be sure to push the grains and casing independently so the liner can sleeve around the nozzle closure and so the grains are seated on the nozzle insert.
 
 <img width="1387" height="408" alt="Screenshot 2026-11-14 195452" src="https://github.com/user-attachments/assets/74e57a4b-1ac8-4727-9de1-ce2ecf9fe8a9" />
-The red circle shows the grain seating and liner sleeving.
 
 5. Fifth, we need to prep the bulkhead. Just as the nozzle, apply a generous amount of silicone lubrication to the cylindrical surface and O-ring grooves of the bulkhead. Now, take 2 G56 FKM O-rings and fit each of them into their O-ring grooves. 
 
