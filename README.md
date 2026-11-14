@@ -4,13 +4,13 @@ The Larper-2 is a J-Class rocket motor producing around 1068 Ns of impulse and 7
 
 This rocket motor is just one of many passion projects I have in mind to build a portfolio for my dream career of being a propulsion engineer. At the same time, I want to introduce my home country of Indonesia to amateur rocketry. Currently, it is an absolute pain to even get a static fire of a rocket motor because here, amateur rocketry is regulated similarly to weapons, which it obviously is not. I hope this project will bring enough awareness so aspiring rocketeers can actually live out their dreams.
 
-If you have any questions regarding the specific math equations used to design this rocket motor, you can check the JOURNAL.MD file or email me at justinbmcclure@gmail.com. The grain casting equipment will have its own repository and will be linked here once complete.
+If you have any questions regarding the specific math equations used to design this rocket motor, you can check the JOURNAL.MD file or email me at justinbmcclure@gmail.com. The grain casting equipment will have its own repository and will be linked here once complete. A cross-sectional diagram as well as technical data are shown below.
 
 <img width="1484" height="363" alt="Screenshot 2026-10-26 105827" src="https://github.com/user-attachments/assets/92958054-01bc-4535-841c-d26b38511d58" />
-Cross-sectional view of the Larper-2
+
 
 <img width="435" height="731" alt="Screenshot 2026-10-26 230954" src="https://github.com/user-attachments/assets/c2e284e1-aaef-4b24-83f6-45e738a31086" />
-Technical Sheet
+
 
 # Casing processing
 
@@ -49,6 +49,9 @@ The red circle shows the grain seating and liner sleeving.
 
 5. Fifth, we need to prep the bulkhead. Just as the nozzle, apply a generous amount of silicone lubrication to the cylindrical surface and O-ring grooves of the bulkhead. Now, take 2 G56 FKM O-rings and fit each of them into their O-ring grooves. 
 
-<img width="1274" height="717" alt="Screenshot 2026-11-14 195832" src="https://github.com/user-attachments/assets/1fe324a8-9856-4ee3-a213-10207aa44947" />
+<img width="316" height="273" alt="Screenshot 2026-11-14 201915" src="https://github.com/user-attachments/assets/22dcb396-59b8-4afc-9fd9-7a20462ada1d" />
 
 6. Finally, slide the bulkhead into the open end of the casing. Ensure you line up the M6 screw holes with the casing holes. If you followed step 4 properly, the holes should already be at the same level when placed into the casing. Just like the nozzle, prepare your M6x14 screws and M6 1mm copper washers to screw the bulkhead in. Place a piece of tape on the nozzle hole to keep moisture out. Congrats, you have assembled the Larper-2.
+
+<img width="1678" height="344" alt="Screenshot 2026-11-14 200105" src="https://github.com/user-attachments/assets/b6073cc5-ff47-4795-9244-81d2c2a1ddb9" />
+
