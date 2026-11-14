@@ -1,10 +1,10 @@
 # Larper-2
 
-The Larper-2 is a J-Class rocket motor producing around 1068 Ns of impulse and 710 Newtons of thrust. It is the second rocket motor in my Larper series and is better in every way compared to the Larper-1. The nickname Teddyy was given by a friend of mine. What differentiates it from other amateur KNSB rocket motors is the experimental thermal insulators that use a carbon fiber-reinforced 3D printing filament known as PET-CF17. This allows me to make very precise insulator sizes without making a mess by using epoxy and kraft paper.
+The Larper-2 is a J-Class rocket motor producing around 1068 Ns of impulse and 710 Newtons of thrust. It is the second rocket motor in my Larper series and is better in every way compared to the Larper-1. The nickname Teddyy was given by a friend of mine. What differentiates it from other amateur KNSB rocket motors is the experimental thermal insulators that use a carbon fiber-reinforced 3D printing filament known as PET-CF17. This allows me to make very precise insulator sizes without making a mess with epoxy and kraft paper.
 
 This rocket motor is just one of many passion projects I have in mind to build a portfolio for my dream career of being a propulsion engineer. At the same time, I want to introduce my home country of Indonesia to amateur rocketry. Currently, it is an absolute pain to even get a static fire of a rocket motor because here, amateur rocketry is regulated similarly to weapons, which it obviously is not. I hope this project will bring enough awareness so aspiring rocketeers can actually live out their dreams.
 
-If you have any questions regarding the specific math equations used to design this rocket motor, you can check the JOURNAL.MD file or email me at justinbmcclure@gmail.com. The grain casting equipment will have its own repository and will be linked here once complete. A cross-sectional diagram, as well as technical data, is shown below.
+If you have any questions regarding the specific math equations used to design this rocket motor, you can check the JOURNAL.MD file or email me at justinbmcclure@gmail.com. The grain casting and PET-CF17 annealing equipment will have its own repository and will be linked here once complete. A cross-sectional diagram, as well as technical data, is shown below.
 
 <img width="1484" height="363" alt="Screenshot 2026-10-26 105827" src="https://github.com/user-attachments/assets/92958054-01bc-4535-841c-d26b38511d58" />
 
